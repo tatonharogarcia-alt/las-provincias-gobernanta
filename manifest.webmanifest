@@ -1,0 +1,19 @@
+{
+  "name": "Las Provincias · Control de limpieza",
+  "short_name": "Las Provincias",
+  "description": "Control sencillo de existencias, compras y pedidos de limpieza.",
+  "lang": "es",
+  "start_url": "/las-provincias-gobernanta/",
+  "scope": "/las-provincias-gobernanta/",
+  "display": "standalone",
+  "background_color": "#f4f8f5",
+  "theme_color": "#14745d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
